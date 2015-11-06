@@ -1,16 +1,16 @@
 # SO Page Builder Animate #
 
-Contributors: dunhakdis
-Tags: Page Builder Animation, SiteOrigin Panels Animate, Page Builder by SiteOrigin Animations, dunhakdis
-Requires at least: 4.1
-Tested up to: 4.3
-Stable tag: 0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Easily add entrance animations to your "SiteOrigin Page Builder" elements or widgets.
+Contributors: dunhakdis<br />
+Tags: Page Builder Animation, SiteOrigin Panels Animate, Page Builder by SiteOrigin Animations, dunhakdis<br />
+Requires at least: 4.1<br />
+Tested up to: 4.3<br />
+Stable tag: 0.1<br />
+License: GPLv2 or later<br />
+License URI: http://www.gnu.org/licenses/gpl-2.0.html<br />
 
 ##Description##
+
+Easily add entrance animations to your "SiteOrigin Page Builder" elements or widgets.<br />
 
 The SO Page Builder Animate is built for the SiteOrigin Page Builder. This plugin adds 'Animate' tab to 'Widgets Styles' inside the page builder panels. By using this plugin, you will be able to easily select from over 70+ different animation types.
 
@@ -46,6 +46,8 @@ Thank you!
 
 ##Installation##
 
+Go to https://wordpress.org/plugins/so-page-builder-animate/ to grab the latest version of this plugin
+
 ###Notice:###
 
 This plugin is an add-on to "Page Builder by SiteOrigin". This plugin will not work if you dont have the said page builder installed and activated on your WordPress
@@ -63,17 +65,6 @@ This plugin is an add-on to "Page Builder by SiteOrigin". This plugin will not w
 Click <a href="https://codex.wordpress.org/Managing_Plugins#Automatic_Plugin_Installation" title="automatic install">here</a> to learn how to automatically add the plugin using the built-in plugin installer.
 
 
-== Frequently Asked Questions ==
-= Soon... =
+##Frequently Asked Questions##
 
-== Screenshots ==
-1. The 'Animate' settings screenshot
-2. The ’Animate’ settings tab when opened
-
-== Changelog ==
-= 0.1 =
-* Initial release.
-
-== Upgrade Notice ==
-= 0.1 =
-Initial Release
+No F.A.Q yet XD
